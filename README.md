@@ -26,7 +26,7 @@ It can extract text, generate questions, provide answer choices, and identify th
 
 - Store MCQs in JSON or display in a DataFrame
 
-## Example output:
+## Future Improvements
+- Support for RAG (Retrieval-Augmented Generation) with knowledge bases
+- Export quizes directly to google forms
 
-MCQ	                                       Choices	                                        Correct
-What is Python primarily used for?	A: Web Development | B: Data Science | C: Both | D: None	C
